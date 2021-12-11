@@ -17,6 +17,11 @@ public class EmployeeDetails {
 
 		System.out.println("chennai");
 	}
+	
+	private void empOffice() {
+		
+		System.out.println("Greens");
+	}
 
 	// main method
 	public static void main(String[] args) {
